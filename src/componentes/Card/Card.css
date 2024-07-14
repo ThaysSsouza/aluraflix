@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Incluir box-sizing em todos os elementos */
+}
+
+.div_card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    border: 1px solid #ccc; /* Adicionar uma borda para melhor visualização */
+    margin-bottom: 20px; /* Espaçamento entre os cards */
+}
+
+.thumb {
+    width: 100%; /* Garante que a imagem ocupa toda a largura do container */
+    height: auto; /* Altura automática para manter a proporção da imagem */
+}
+
+.div_botoes {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    padding: 0 20px;
+}
+

@@ -1,0 +1,65 @@
+[
+  {
+    "titulo": "O que é o Java?",
+    "imagem": "https://img.youtube.com/vi/90NcVNsKGik/maxresdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=90NcVNsKGik&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI",
+    "descricao": "O bom, velho e onipresente Java! É fácil de aprender? Como é programar em Java? Roberta e Paulo debatem sobre suas experiências com essa linguagem querida e famosa neste vídeo.",
+    "categoria": "Front End"
+  },
+  {
+    "titulo": "Destructuring em JavaScript",
+    "imagem": "https://i.ytimg.com/vi/f8a-qwKC5yk/maxresdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=f8a-qwKC5yk&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI&index=2",
+    "descricao": "Neste Alura +, a nossa instrutora Juliana Negreiros explica sobre o uso do destructuring (desconstrução) no JavaScript. O que é? Como usar? Descubra agora!",
+    "categoria": "Front End"
+  },
+  {
+    "titulo": "Classes x funções no JavaScript",
+    "imagem": "https://i.ytimg.com/vi/iohhj-k9L6s/maxresdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=iohhj-k9L6s&list=PLh2Y_pKOa4UfsZfAT5ylSsbcEjpguxoBI&index=3",
+    "descricao": "Será que existe diferença entre classes e funções no Javascript? No Alura+ dessa semana, a nossa instrutora Juliana Amoasei esclarece essa questão. Vem com a gente!",
+    "categoria": "Front End"
+  },
+  {
+    "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+    "imagem": "https://i.ytimg.com/vi/Z-4oX6a5Z5s/maxresdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=fiPfvylj6rk",
+    "descricao": "Afinal, quem trabalha com Back-end faz o que? Com quais outras áreas da tecnologia essa pessoa acaba se relacionando no dia a dia de trabalho e quais os possíveis caminhos nessa carreira?",
+    "categoria": "Back End"
+  },
+  {
+    "titulo": "Diferença entre Deploy e Release",
+    "imagem": "https://i.ytimg.com/vi/Z-4oX6a5Z5s/maxresdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=Z-4oX6a5Z5s",
+    "descricao": "Neste vídeo, você vai aprender sobre a diferença entre deploy e release, além de conhecer mais sobre Feature Flags e Parallel Change, dois conceitos bem conhecidos do universo DevOps.",
+    "categoria": "Back End"
+  },
+  {
+    "titulo": "O que é Python?",
+    "imagem": "https://i.ytimg.com/vi/-LATVnPcvHI/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=-LATVnPcvHI",
+    "descricao": "Com o crescimento do Data Science e Machine Learning, cada vez mais bibliotecas são escritas em Python, aumentando a adoção desta linguagem que nasceu no século passado. Mas, o que é Python e quais os seus usos? O Gui Silveira explica neste Hipsters.tube!",
+    "categoria": "Back End"
+  },
+  {
+    "titulo": "Como implementar Scrum no seu projeto?",
+    "imagem": "https://i.ytimg.com/vi/-iKtTNZ02-Y/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=-iKtTNZ02-Y",
+    "descricao": "Quer ter uma equipe ágil ou, quem sabe, formar squads na sua empresa? Antes de reestruturar tudo na sua empresa, assista às recomendações do Alexandre Magno! E para saber mais, estude com ele na Alura",
+    "categoria": "Inovação e Gestão"
+  },
+  {
+    "titulo": "Você precisa de Power BI? com Davi Neves",
+    "imagem": "https://i.ytimg.com/vi/jtiTwFouNeI/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=jtiTwFouNeI",
+    "descricao": "O que são as Softskills e por que é tão importante desenvolvê-las para se posicionar no mercado de trabalho? Neste Alura+, a Pri Stuani fala sobre as 9 habilidades comportamentais mais buscadas por empresas em seus profissionais e como elas te auxiliam no dia a dia.",
+    "categoria": "Inovação e Gestão"
+  },
+  {
+    "titulo": "As 9 Softskills mais desejadas pelas empresas",
+    "imagem": "https://i.ytimg.com/vi/SjY0zj17-8U/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=SjY0zj17-8U&list=PLh2Y_pKOa4UcjTE5zJ6Bbq9eiOtKuFQS_",
+    "descricao": "O que são as Softskills e por que é tão importante desenvolvê-las para se posicionar no mercado de trabalho? Neste Alura+, a Pri Stuani fala sobre as 9 habilidades comportamentais mais buscadas por empresas em seus profissionais e como elas te auxiliam no dia a dia.",
+    "categoria": "Inovação e Gestão"
+  }
+]

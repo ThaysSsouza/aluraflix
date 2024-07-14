@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+.campo-texto {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px 0;
+  }
+  
+  .campo-texto label {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+  }
+  
+  .campo-texto input {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: transparent;
+    border: 2px dotted #262626;
+    border-radius: 15px;
+    outline: none; /* Remove o contorno ao focar no input */
+    padding: 12px 8px; /* Espaçamento interno */
+  }
+
+  .campo-texto ::placeholder {
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    color: #b4b4b4;
+    background-color: transparent;
+    box-shadow: none;
+  }
+  

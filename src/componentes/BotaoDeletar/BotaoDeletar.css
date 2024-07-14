@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container_botoes_deletar{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+   
+}
+
+.lixo{
+    height: 20px;
+    box-sizing: border-box; 
+}
+
+.legenda_deletar{
+
+    color: #ffffff;
+}

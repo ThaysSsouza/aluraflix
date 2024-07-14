@@ -1,0 +1,22 @@
+.categoria {
+    display: flex;
+    flex-direction: column;
+    padding: 40px 60px;
+    background-color: transparent;
+    gap: 40px;
+}
+
+.titulo {
+    width: 30%; /* Para ocupar toda a largura disponível */
+    padding: 10px 20px;
+    font-size: 32px;
+    text-align: center; /* Centraliza o texto */
+    border-radius: 15px;
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
+.cardsContainer {
+    display: flex; /* Para colocar os cards em linha */
+    flex-wrap: wrap; /* Para que os cards quebrem para uma nova linha conforme necessário */
+    gap: 20px; /* Espaçamento entre os cards */
+}

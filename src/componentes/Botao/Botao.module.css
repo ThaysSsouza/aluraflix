@@ -1,0 +1,27 @@
+/* Botao.module.css */
+
+.home {
+    width: 180px;
+    height: 54px;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 900;
+    color: #2271d1;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #2271d1;
+    border-radius: 5px;
+}
+
+.botao {
+    width: 180px;
+    height: 54px;
+    font-family: "Source Sans 3", sans-serif;
+    font-weight: 900;
+    color: white;
+    background-color: transparent;
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 5px;
+}
